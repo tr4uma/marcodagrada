@@ -1,5 +1,5 @@
 # Marcodagrada
-I was just wandering if i could build my online portfolio using the amazing [Vuepress](https://vuepress.vuejs.org/).
+I was just wandering if I could build my online portfolio using the amazing <a href="https://vuepress.vuejs.org/" target="_blank">Vuepress</a>.
 
 So I tried it. It's amazing!
 
