@@ -24,7 +24,7 @@ module.exports = {
         selectText: 'Languages',
         nav: [
           { text: 'Home', link: '/' },
-          { text: 'About', link: '/about/' }
+          { text: 'About Me', link: '/about/' }
         ]
       },
       '/it/': {
@@ -32,7 +32,7 @@ module.exports = {
         selectText: 'Lingue',
         nav: [
           { text: 'Home', link: '/' },
-          { text: 'About', link: '/it/about/' }
+          { text: 'About Me', link: '/it/about/' }
         ]
       }
     }

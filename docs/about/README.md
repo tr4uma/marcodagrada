@@ -1,2 +1,6 @@
-# Marco Dagrada
-## About
+---
+sidebar: auto
+---
+# About Me
+![Me](./me.jpeg)
+ spettacolo

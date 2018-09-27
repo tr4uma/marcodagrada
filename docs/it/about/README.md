@@ -1,2 +1,5 @@
-# Marco Dagrada
+---
+sidebar: auto
+---
+# About Me
 ## About
