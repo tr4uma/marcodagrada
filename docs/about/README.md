@@ -8,15 +8,15 @@ sidebar: auto
 
 As you can tell by the not-so-hidden hints around the website, my name is Marco Dagrada, I'm 27 years old and I currently live in Pavia, Italy.
 
-I love learning, especially about technology, psychology and oriental philosophy. You can probably catch me on a plane or on a train reading books about those things or testing out new stuff.
+I **LOVE** learning, especially about technology, psychology and oriental philosophy. You can probably catch me on a plane or on a train reading books about those things or testing out new stuff.
 
 One of my favourite topics is Cryptocurrencies, I mined some Bitcoin during early 2010, while I was a student, using basic hardware when Bitcoin was still at the beginning of its road to the fame. Now I often spend time trading cryptos and playing around, keeping myself informed about the latest ICOs.
 
-In my spare time, I enjoy a good workout session and I volunteer in the Italian Red Cross, Pavia Committee. Those two things contribute to make me feeling good as a human being, allowing me to improve myself on things hard to work on in my work as a Consultant/Full-Stack Developer.
+In my spare time, I enjoy a good workout session and I volunteer in the Italian Red Cross, Pavia Committee. Those two things contribute to make me feeling good as a human being, allowing me to improve myself on things hard to work on in my job as a Consultant/Full-Stack Developer.
 
 Another of my passions is teaching. I think teaching puts you in the spot of being forced to know what you're actually talking about, allowing you to deeply understand topics and confront with people about them, learning much more and leading to become an expert.
 
-I currently work (also) as a trainer, teaching new hires what they need to know to properly work in Telnext/Deloitte Digital. During last summer I also spent a week as a teacher for the DIGITA Academy project at the University "Federico II" in Napoli.
+I currently work (also) as a trainer, teaching new hires what they need to know to get the most out of their job in  Telnext/Deloitte Digital. During last summer I also spent a week as a teacher for the DIGITA Academy project at the University "Federico II" in Napoli.
 
 ## Education
 I graduated in 2015, getting my Master's Degree in Computer Engineering at the University Of Pavia, specializing in the Computer Science and Multimedia branch, with a thesis entitled "Development of an Android Library for Video Games through TDD".
