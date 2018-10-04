@@ -18,7 +18,7 @@ Another of my passions is teaching. I think teaching puts you in the spot of bei
 
 I currently work (also) as a trainer, teaching new hires what they need to know to get the most out of their job in  Telnext/Deloitte Digital. During last summer I also spent a week as a teacher for the DIGITA Academy project at the University "Federico II" in Napoli.
 
-I'm (well, I was) an [hardcore videogame player](https://www.dotabuff.com/players/29917430). Specifically, I love [DotA2](https://en.wikipedia.org/wiki/Dota_2).
+I'm (well, I was) an [hardcore videogame player](https://www.dotabuff.com/players/29917430). Specifically, I love [DotA2](https://en.wikipedia.org/wiki/Dota_2). It's such a beautiful game: despite its not-state-of-the-art graphics, it combines decision making, team building, team working, planning, mechanical skill development and it's packed with emotions. It's literally the same game scenario over and over again but it **NEVER** gets boring.
 
 ## Education
 I graduated in 2015, getting my Master's Degree in Computer Engineering at the University Of Pavia, specializing in the Computer Science and Multimedia branch, with a thesis entitled "Development of an Android Library for Video Games through TDD".

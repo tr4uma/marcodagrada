@@ -18,7 +18,7 @@ Un'altra delle mie passioni è l'insegnamento. Penso che insegnare ti metta in q
 
 Attualmente lavoro (tra le altre cose) anche come trainer, insegnando ai neo-assunti quel che serve loro per avere sin da subito un impatto importante nel proprio lavoro in Telnext/Deloitte Digital. Nell'ultima estate ho anche trascorso una settimana come insegnante per la DIGITA Academy, progetto svolto presso l'università Federico II di Napoli.
 
-Sono (o meglio ero) un [videogiocatore accanito](https://it.dotabuff.com/players/29917430), in particolare di [DotA2](https://en.wikipedia.org/wiki/Dota_2).
+Sono (o meglio ero) un [videogiocatore accanito](https://it.dotabuff.com/players/29917430), in particolare di [DotA2](https://en.wikipedia.org/wiki/Dota_2). E' un gioco fantastico: nonostante la grafica non particolarmente avanzata, combina decision making, team building, team working, planning, mechanical skill development ed è sempre emozionante e ricco di colpi di scena. Si gioca letteralmente lo stesso scenario di gioco ogni partita ma non diventa **MAI** noioso.
 
 ## Formazione
 Mi sono laureato nel 2015, ottenendo una laurea magistrale in Computer Engineering (in lingua inglese) presso l'Università degli studi di Pavia, specializzandomi nel ramo Computer Science and Multimedia, con una tesi intitolata "Development of an Android Library for Video Games through TDD", che mi ha permesso di comprendere meglio tutto ciò che sta dietro una delle passioni che mi ha accompagnato per tutta la vita, i videogiochi.
