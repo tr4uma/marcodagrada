@@ -12,7 +12,7 @@ Ho una fame insaziabile di conoscenza, in particolare riguardo nuove tecnologie,
 
 Uno tra i miei argomenti preferiti sono le Criptovalute, ho fatto del mining di Bitcoin nei primi mesi del 2010, mentre studiavo ancora all'università, usando hardware poco costoso, quando Bitcoin era ancora all'inizio della sua scalata verso la celebrità. Ora faccio spesso trading online e mi guardo un po' in giro, tenendomi aggiornato sulle ultime ICO.
 
-Nel mio tempo libero mi piace evitare di afflosciarmi andando in palestra, oppure fare volontariato per la Croce Rossa Italiana, nel comitato di Pavia. Queste due cose mi fanno sentire bene, permettendomi di migliorarmi su cose che è difficile imparare nel mio lavoro come Consulente/Full-Stack Developer.
+Nel mio tempo libero mi piace evitare di afflosciarmi andando in palestra, oppure fare volontariato per la Croce Rossa Italiana, nel comitato di Pavia. Queste due cose mi fanno sentire bene, permettendomi di migliorare su cose che è difficile imparare nel mio lavoro come Consulente/Full-Stack Developer, anche se sicuramente qualche applicazione pratica la riesco sempre a trovare.
 
 Un'altra delle mie passioni è l'insegnamento. Penso che insegnare ti metta in qualche modo alle strette, costringendoti ad andare a fondo sugli argomenti di cui tratti e permettendoti di avere un confronto diretto con le altre persone a riguardo, imparando di più e portandoti a diventare un esperto dell'argomento.
 
