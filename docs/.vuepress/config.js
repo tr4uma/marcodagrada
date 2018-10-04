@@ -1,6 +1,6 @@
 module.exports = {
   title: "Marco Dagrada",
-  description: "Vue-powered Static Site Generator",
+  description: "Marco Dagrada's Online Portfolio",
   ga: "UA-126449371-1",
   locales: {
     // The key is the path for the locale to be nested under.
