@@ -18,6 +18,8 @@ Another of my passions is teaching. I think teaching puts you in the spot of bei
 
 I currently work (also) as a trainer, teaching new hires what they need to know to get the most out of their job in  Telnext/Deloitte Digital. During last summer I also spent a week as a teacher for the DIGITA Academy project at the University "Federico II" in Napoli.
 
+I'm (well, I was) an [hardcore videogame player](https://www.dotabuff.com/players/29917430). Specifically, I love [DotA2](https://en.wikipedia.org/wiki/Dota_2).
+
 ## Education
 I graduated in 2015, getting my Master's Degree in Computer Engineering at the University Of Pavia, specializing in the Computer Science and Multimedia branch, with a thesis entitled "Development of an Android Library for Video Games through TDD".
 After that, I got a job as Salesforce Technical Expert and developer @Telnext combined with a 1st level Post-Graduate Degree (Professional Master's Programme) in Cloud Computing and Agile Methodologies in collaboration with Politecnico di Milano and Cefriel.

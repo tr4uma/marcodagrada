@@ -18,6 +18,8 @@ Un'altra delle mie passioni è l'insegnamento. Penso che insegnare ti metta in q
 
 Attualmente lavoro (tra le altre cose) anche come trainer, insegnando ai neo-assunti quel che serve loro per avere sin da subito un impatto importante nel proprio lavoro in Telnext/Deloitte Digital. Nell'ultima estate ho anche trascorso una settimana come insegnante per la DIGITA Academy, progetto svolto presso l'università Federico II di Napoli.
 
+Sono (o meglio ero) un [videogiocatore accanito](https://it.dotabuff.com/players/29917430), in particolare di [DotA2](https://en.wikipedia.org/wiki/Dota_2).
+
 ## Formazione
-Mi sono laureato nel 2015, prendendo la laurea magistrale in Computer Engineering (in lingua inglese) presso l'Università degli studi di Pavia, specializzandomi nel ramo Computer Science and Multimedia, con una tesi intitolata "Development of an Android Library for Video Games through TDD".
-Dopo la laurea, ho iniziato a lavorare come Salesforce Technical Expert e developer in Telnext SRL, cominciando contemporaneamente un master di primo livello in Cloud Computing & Agile Methodologies presso il Politecnico di Milano in collaborazione con Cefriel.
+Mi sono laureato nel 2015, ottenendo una laurea magistrale in Computer Engineering (in lingua inglese) presso l'Università degli studi di Pavia, specializzandomi nel ramo Computer Science and Multimedia, con una tesi intitolata "Development of an Android Library for Video Games through TDD", che mi ha permesso di comprendere meglio tutto ciò che sta dietro una delle passioni che mi ha accompagnato per tutta la vita, i videogiochi.
+Dopo la laurea, ho iniziato a lavorare come Salesforce Technical Expert e Developer in Telnext SRL, cominciando contemporaneamente un master di primo livello in Cloud Computing & Agile Methodologies presso il Politecnico di Milano in collaborazione con Cefriel.
