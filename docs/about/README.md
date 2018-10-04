@@ -21,5 +21,9 @@ I currently work (also) as a trainer, teaching new hires what they need to know 
 I'm (well, I was) an [hardcore videogame player](https://www.dotabuff.com/players/29917430). Specifically, I love [DotA2](https://en.wikipedia.org/wiki/Dota_2). It's such a beautiful game: despite its not-state-of-the-art graphics, it combines decision making, team building, team working, planning, mechanical skill development and it's packed with emotions. It's literally the same game scenario over and over again but it **NEVER** gets boring.
 
 ## Education
+Since 1998, when my parents gifted me with my frist personal computer, I have been interested in technology and software, which led me through making decisions about my education for my entire life.
+I got a Computer Expert ("Perito Informatico" in italian) diploma from the "G. Cardano" Technical Institute (High School).
 I graduated in 2015, getting my Master's Degree in Computer Engineering at the University Of Pavia, specializing in the Computer Science and Multimedia branch, with a thesis entitled "Development of an Android Library for Video Games through TDD".
 After that, I got a job as Salesforce Technical Expert and developer @Telnext combined with a 1st level Post-Graduate Degree (Professional Master's Programme) in Cloud Computing and Agile Methodologies in collaboration with Politecnico di Milano and Cefriel.
+
+I love keeping myself up-to-date on the latest tech topics through tech websites and by partecipating to conferences.
